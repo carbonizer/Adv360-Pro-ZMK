@@ -38,6 +38,13 @@
             key-positions = <70 22>;
             layers = <0>;
         };
+
+        r {
+            bindings = <&kp R>;
+            key-positions = <70 23>;
+            timeout-ms = <50>;
+            layers = <0>;
+        };
     };
 
     keymap {
