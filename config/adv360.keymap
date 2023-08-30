@@ -36,7 +36,7 @@
         t {
             bindings = <&none>;
             key-positions = <70 22>;
-            layers = <>;
+            layers = <0>;
         };
     };
 
