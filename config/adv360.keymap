@@ -34,10 +34,9 @@
         compatible = "zmk,combos";
 
         t {
-            bindings = <&none>;
+            bindings = <&kp T>;
             key-positions = <70 22>;
             layers = <0>;
-            timeout-ms = <50>;
         };
     };
 
