@@ -37,6 +37,7 @@
             bindings = <&none>;
             key-positions = <70 22>;
             layers = <0>;
+            timeout-ms = <50>;
         };
     };
 
